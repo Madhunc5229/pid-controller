@@ -27,7 +27,7 @@ The design contains one class, PID. The main function takes the current and goal
 The UML class diagram is as follows : 
 
 
-<img alt="UML" src="UMLDiagrams/class_diagram.png" width="200" />
+<img alt="UML" src="UMLDiagrams/class_diagram.png" width="400" />
 *Fig 1 :  UML class diagram*
 
 The activity diagram is as follows : 
