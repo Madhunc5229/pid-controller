@@ -21,7 +21,7 @@ The members of the pair for Part 2 of this repository are :
  - Divyansh Agarwal (Choose)
  
 ## Description
-The design contains one class, PID. The main function takes the current and goal state as input as to pid class which should be initialized with kp, ki, kd and dt values. The goal and current state is then passed to runController method which calls computUpdate method 100 times to compute final state. 
+The design contains one class, PID. The main function takes the current and goal state as input to pid class which should be initialized with kp, ki, kd and dt values. The goal and current state is then passed to runController method which calls computUpdate method 100 times to compute final state. 
 
 
 The UML class diagram is as follows : 
@@ -36,7 +36,7 @@ Fig 2 :  Activity diagram
 
 ### Steps to build 
 ```
-    cd ...<path_to_directory>/
+    cd pid-controller/
     mkdir build
     cd build
     cmake ..
