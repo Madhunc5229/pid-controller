@@ -28,13 +28,13 @@ The UML class diagram is as follows :
 
 
 <img alt="UML" src="UMLDiagrams/class_diagram.png" width="400" />
-*Fig 1 :  UML class diagram*
+Fig 1 :  UML class diagram
 
 The activity diagram is as follows : 
 
 
 <img alt="Activity" src="UMLDiagrams/activity_diagram.png" width="500" />
-*Fig 2 :  Activity diagram*
+Fig 2 :  Activity diagram
 
 ### Steps to build 
 ```
