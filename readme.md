@@ -31,7 +31,7 @@ Fig 1 :  UML class diagram
 
 
 Fig 2 :  Activity diagram  
-<img alt="Activity" src="UMLDiagrams/activity_diagram.png" width="500" />  
+<img alt="Activity" src="UMLDiagrams/activity_diagram.png" width="400" />  
 
 
 ### Steps to build 
