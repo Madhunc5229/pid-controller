@@ -16,7 +16,8 @@
  * 
  * @return int 
  */
-int main()
-{
-    std::cout << "testing commit";
+int main() {
+    PID pidobj = PID(0.5, 0.1, 0.01, 0.1);
+    double current_state = pidobj.runController(100, 0);
+    std::cout << "current state is: " << current_state;
 }
