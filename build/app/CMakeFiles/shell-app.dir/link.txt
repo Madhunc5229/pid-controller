@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -Wall -Wextra -Wpedantic -g -g  -rdynamic CMakeFiles/shell-app.dir/pid.cpp.o CMakeFiles/shell-app.dir/main.cpp.o  -o shell-app 
