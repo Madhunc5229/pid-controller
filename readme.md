@@ -17,8 +17,8 @@ The members of the pair for Part 1 of this repository are :
 
  ## Part 2 
 The members of the pair for Part 2 of this repository are :
- - Sahruday Patti (Choose)
- - Divyansh Agarwal (Choose)
+ - Sahruday Patti (Navigator)
+ - Divyansh Agarwal (Driver)
  
 ## Description
 The design contains one class, PID. The main function takes the current and goal state as input to pid class which should be initialized with kp, ki, kd and dt values. The goal and current state is then passed to runController method which calls computUpdate method 100 times to compute final state. 
