@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/Madhunc5229/pid-controller/badge.svg?branch=main)](https://coveralls.io/github/Madhunc5229/pid-controller?branch=main)
 
 # Week 5: Test-Driven Development Assignment - ENPM 808X
 
