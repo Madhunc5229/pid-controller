@@ -8,15 +8,14 @@
  * @copyright Copyright (c) 2022
  *
  */
-#ifndef _PID_H_
-#define _PID_H_
-
+#ifndef INCLUDE_PID_H_
+#define INCLUDE_PID_H_
 /**
  * @brief Pid class with methods and attributes to compute the final state
  * 
  */
 class PID {
-public:
+ public:
   /**
    * @brief Constructor to contruct a new PID object
    * 
@@ -45,8 +44,7 @@ public:
    */
   double runController(double goal_state, double current_state);
 
-private:
-
+ private:
   double _kp;
   double _ki;
   double _kd;
@@ -55,4 +53,4 @@ private:
   double _integral;
 };
 
-#endif
+#endif  // INCLUDE_PID_H_
