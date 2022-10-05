@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/Madhunc5229/pid-controller.svg?branch=main)](https://app.travis-ci.com/Madhunc5229/pid-controller)
 [![Coverage Status](https://coveralls.io/repos/github/Madhunc5229/pid-controller/badge.svg?branch=main)](https://coveralls.io/github/Madhunc5229/pid-controller?branch=main)
 
 # Week 5: Test-Driven Development Assignment - ENPM 808X
